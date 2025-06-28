@@ -1,3 +1,3 @@
 # portfolio
 Launch:
-https://nikhilsoni15.github.io/portfolio/
+https://nikhilsoni15.github.io
